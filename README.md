@@ -104,7 +104,7 @@ Generate visual insights using:
 ![Top Products](top_products.png)
 
 #### 3️⃣ RFM Customer Segmentation
-![RFM Heatmap](/rfm_heatmap.png)
+![RFM Histmap](/rfm_histmap.png)
 
 #### 4️⃣ Country-wise Sales Distribution
 ![Country Sales](country_sales.png)
